@@ -4,7 +4,24 @@
 
     
   <url>
-    <loc>http://superteacher.top/2016/10/10/%E4%BD%A0%E8%BF%98%E5%A5%BD%E4%B9%88/</loc>
+    <loc>superteacher.top/2016/10/11/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2016-10-10T16:39:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>测试</title>
+        <pubTime>2016-10-10T16:38:01.000Z</pubTime>
+        
+        <tag>测试</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>superteacher.top/2016/10/10/%E4%BD%A0%E8%BF%98%E5%A5%BD%E4%B9%88/</loc>
     <lastmod>2016-10-10T15:15:09.000Z</lastmod>
     <data>
         <display>
@@ -18,7 +35,7 @@
          
            
              
-              <breadCrumb title="日记" url="http://superteacher.top/categories/%E6%97%A5%E8%AE%B0/"/>
+              <breadCrumb title="日记" url="superteacher.top/categories/%E6%97%A5%E8%AE%B0/"/>
           
         </display>
     </data>
@@ -27,27 +44,12 @@
     
     
   <url>
-    <loc>http://superteacher.top/2016/10/10/Test/</loc>
+    <loc>superteacher.top/2016/10/10/Test/</loc>
     <lastmod>2016-10-10T09:08:46.000Z</lastmod>
     <data>
         <display>
         <title>Test</title>
         <pubTime>2016-10-10T08:57:31.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://superteacher.top/2016/10/10/hello-world/</loc>
-    <lastmod>2016-10-10T08:12:42.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-10-10T08:12:42.000Z</pubTime>
         
          
            
